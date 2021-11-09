@@ -6,5 +6,6 @@ https://user-images.githubusercontent.com/28990749/140839421-1951f4ec-49e0-4ef4-
 
 libs:
 
-react-native-shake
-react-native-torch
+- react-native-shake
+
+- react-native-torch
