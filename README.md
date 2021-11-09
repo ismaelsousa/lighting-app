@@ -12,3 +12,6 @@ libs:
 - react-native-shake
 
 - react-native-torch
+
+
+[DOWNLOAD APK](https://drive.google.com/file/d/1nJIoJ8B9_lHXuqQK5_nDoN6nftcASVyd/view?usp=sharing)
